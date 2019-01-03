@@ -1,6 +1,6 @@
 const users = [{
-  'nome': 'Mailson Cardoso Peixe 2',
-  'email': 'mailson.peixe@gmail.com',
+  'nome': 'Teste',
+  'email': 'user@user.com',
   'telefone': '12312312',
   'id': 123
 }]
