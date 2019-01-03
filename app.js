@@ -47,13 +47,3 @@ app.listen(3000, () => {
 })
 
 
-
-/*
-var nome = 'Mailson Peixe'
-var email = 'mailson.peixe@gmail.com'
-var dataNascimento = '1988-05-27'
-var dataFormadata = moment(dataNascimento, 'YYYY-MM-DD').format('DD/MM/YYYY')
-
-console.log('Meu nome é ' + nome + ' e meu e-email é: ' + email)
-
-console.log('Minha data de nascimento : ', dataFormadata)*/
